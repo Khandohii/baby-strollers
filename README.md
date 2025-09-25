@@ -2,6 +2,15 @@
 
 A responsive and cross-browser e-commerce website layout built from scratch based on a unique **Figma design**. The project includes multiple feature-rich pages and demonstrates modern layout techniques combined with interactive UI elements.  
 
+## 🌐 Live Pages  
+
+- [Home page](https://khandohii.github.io/baby-strollers/)  
+- [Catalog page](https://khandohii.github.io/baby-strollers/catalog.html)  
+- [Product page](https://khandohii.github.io/baby-strollers/product.html)  
+- [Cart page](https://khandohii.github.io/baby-strollers/cart.html)  
+- [Comparison page](https://khandohii.github.io/baby-strollers/compare.html)  
+- [User account page](https://khandohii.github.io/baby-strollers/account.html)
+- 
 ## 🚀 Features  
 
 - **Responsive & cross-browser layout** – optimized for desktop, tablet, and mobile devices  
