@@ -10,7 +10,7 @@ A responsive and cross-browser e-commerce website layout built from scratch base
 - [Cart page](https://khandohii.github.io/baby-strollers/cart.html)  
 - [Comparison page](https://khandohii.github.io/baby-strollers/compare.html)  
 - [User account page](https://khandohii.github.io/baby-strollers/account.html)
-- 
+  
 ## 🚀 Features  
 
 - **Responsive & cross-browser layout** – optimized for desktop, tablet, and mobile devices  
